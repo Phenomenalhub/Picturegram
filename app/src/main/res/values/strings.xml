@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Photogram</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">Q1qx6afH6SX8ngJLqX0W0LvuNaG1ewaizENWEInz</string>
+    <string name="back4app_client_key">aB7s7XlZG0dIY3GQbePhkaxVO1AFK95MsuG0S5cw</string>
+
+</resources>
